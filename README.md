@@ -24,19 +24,17 @@
   <text x="450" y="155" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#7A5234" text-anchor="middle" letter-spacing="3.5" font-weight="600">ENGENHARIA DE SOFTWARE • BACKEND &amp; SISTEMAS</text>
 </svg>
 
-<br/>
+---
 
-Estudante de Engenharia de Software — foco em backend, APIs, banco de dados e infraestrutura.
+**Estudante de Engenharia de Software** — foco em backend, APIs, banco de dados e infraestrutura.
 
-<br/>
+---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MiguelZGobbo&show_icons=true&title_color=7A5234&text_color=3D3028&icon_color=7A5234&bg_color=F8F0E5&border_color=E2C7AA&rank_icon=github&include_all_commits=true&hide_border=true" />
-
-<br/>
+**Tecnologias**
 
 Python • Java • JavaScript • Flask • Spring Boot • Docker • PostgreSQL • MySQL • Git
 
-<br/>
+---
 
 <a href="https://linkedin.com/in/miguel-zager-gobbo"><img src="https://img.shields.io/badge/LinkedIn-7A5234?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/MiguelZGobbo"><img src="https://img.shields.io/badge/GitHub-583A22?style=for-the-badge&logo=github&logoColor=white"/></a>
