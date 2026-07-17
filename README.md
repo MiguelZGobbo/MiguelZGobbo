@@ -1,40 +1,24 @@
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="100%">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#F8F0E5"/>
-      <stop offset="100%" stop-color="#EDE1CE"/>
-    </linearGradient>
-    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#E2C7AA" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#A0876E" stop-opacity="0.1"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="240" fill="url(#bgGrad)" rx="16"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgMjQwIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYiIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNGOEYwRTUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjRURFMUNFIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJ3IiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNFMkM3QUEiIHN0b3Atb3BhY2l0eT0iLjUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjQTA4NzZFIiBzdG9wLW9wYWNpdHk9Ii4xIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjI0MCIgZmlsbD0idXJsKCNiKSIgcng9IjE2Ii8+CiAgPHBhdGggZD0iTTAgMTYwIFExNTAgMTMwIDMwMCAxNjAgUTQ1MCAxOTAgNjAwIDE2MCBRNzUwIDEzMCA5MDAgMTYwIiBmaWxsPSJub25lIiBzdHJva2U9IiNFMkM3QUEiIHN0cm9rZS13aWR0aD0iMiIgb3BhY2l0eT0iLjQiLz4KICA8cGF0aCBkPSJNMCAyMDAgUTE1MCAxNzAgMzAwIDIwMCBRNDUwIDIzMCA2MDAgMjAwIFE3NTAgMTcwIDkwMCAyMDAgTDkwMCAyNDAgTDAgMjQwWiIgZmlsbD0idXJsKCN3KSIvPgogIDxwYXRoIGQ9Ik0wIDE4MCBRMjAwIDE2MCA0MDAgMTgwIFE2MDAgMjAwIDgwMCAxODAgUTg1MCAxNzUgOTAwIDE4MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRTJDN0FBIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iLjMiLz4KICA8cGF0aCBkPSJNMCAyMTUgUTEyMCAxOTUgMjQwIDIxNSBRMzYwIDIzNSA0ODAgMjE1IFE2MDAgMTk1IDcyMCAyMTUgUTg0MCAyMzUgOTAwIDIxNSBMOTAwIDI0MCBMMCAyNDBaIiBmaWxsPSIjQTA4NzZFIiBvcGFjaXR5PSIuMDgiLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSI4MCIgcj0iMyIgZmlsbD0iIzdBNTIzNCIvPgogIDx0ZXh0IHg9IjQ1MCIgeT0iMTIwIiBmb250LWZhbWlseT0iR2VvcmdpYSwnVGltZXMgTmV3IFJvbWFuJyxzZXJpZiIgZm9udC1zaXplPSI0MiIgZmlsbD0iIzU4M0EyMiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC13ZWlnaHQ9ImJvbGQiPk1pZ3VlbCBaYWdlciBHb2JibzwvdGV4dD4KICA8dGV4dCB4PSI0NTAiIHk9IjE1NSIgZm9udC1mYW1pbHk9IkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmIiBmb250LXNpemU9IjE0IiBmaWxsPSIjN0E1MjM0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iMy41IiBmb250LXdlaWdodD0iNjAwIj5FTkdFTkhBUklBIERFIFNPRlRXQVJFIOKAoiBCQUNLRU5EICZhbXA7IFNJU1RFTUFTPC90ZXh0Pgo8L3N2Zz4K" alt="banner" />
 
-  <path d="M0 160 Q150 130 300 160 Q450 190 600 160 Q750 130 900 160" fill="none" stroke="#E2C7AA" stroke-width="2" opacity="0.4"/>
-  <path d="M0 200 Q150 170 300 200 Q450 230 600 200 Q750 170 900 200 L900 240 L0 240Z" fill="url(#waveGrad)"/>
-  <path d="M0 180 Q200 160 400 180 Q600 200 800 180 Q850 175 900 180" fill="none" stroke="#E2C7AA" stroke-width="1.5" opacity="0.3"/>
-  <path d="M0 215 Q120 195 240 215 Q360 235 480 215 Q600 195 720 215 Q840 235 900 215 L900 240 L0 240Z" fill="#A0876E" opacity="0.08"/>
-
-  <circle cx="450" cy="80" r="3" fill="#7A5234"/>
-
-  <text x="450" y="120" font-family="Georgia,'Times New Roman',serif" font-size="42" fill="#583A22" text-anchor="middle" font-weight="bold">Miguel Zager Gobbo</text>
-  <text x="450" y="155" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#7A5234" text-anchor="middle" letter-spacing="3.5" font-weight="600">ENGENHARIA DE SOFTWARE • BACKEND &amp; SISTEMAS</text>
-</svg>
-
----
+<br/><br/>
 
 **Estudante de Engenharia de Software** — foco em backend, APIs, banco de dados e infraestrutura.
 
----
+<br/>
 
-**Tecnologias**
+![Python](https://img.shields.io/badge/Python-7A5234?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-7A5234?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-7A5234?style=flat&logo=javascript&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-7A5234?style=flat&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-7A5234?style=flat&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-7A5234?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7A5234?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-7A5234?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7A5234?style=flat&logo=git&logoColor=white)
 
-Python • Java • JavaScript • Flask • Spring Boot • Docker • PostgreSQL • MySQL • Git
-
----
+<br/>
 
 <a href="https://linkedin.com/in/miguel-zager-gobbo"><img src="https://img.shields.io/badge/LinkedIn-7A5234?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/MiguelZGobbo"><img src="https://img.shields.io/badge/GitHub-583A22?style=for-the-badge&logo=github&logoColor=white"/></a>
