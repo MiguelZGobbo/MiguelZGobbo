@@ -4,8 +4,6 @@
 
 **Estudante de Engenharia de Software** — foco em backend, APIs, banco de dados e infraestrutura.
 
----
-
 ## Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-7A5234?style=flat&logo=python&logoColor=white)
@@ -17,8 +15,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7A5234?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-7A5234?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-7A5234?style=flat&logo=git&logoColor=white)
-
----
 
 ## Contato
 
